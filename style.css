@@ -15,7 +15,7 @@ header{
 }
         h3{
 
-            margin-right: 800px;
+            padding-right: 800px;
             color: white;
             font-size: 40px;
         }
@@ -53,10 +53,10 @@ header{
             }
 
 .progress_position{
-    display: block ruby;
+    display: flex;
 }
-
         .progress {
+            margin-top: 48px;
             display: -ms-flexbox;
             display: flex;
             height: 1rem;
@@ -91,3 +91,28 @@ header{
             padding-left: 30px;
             font-size: 25px;
         }
+
+.language_position{
+    display: flex;
+    margin-left: 485px;
+    margin-top: -137px;
+
+}
+        #pr_position{
+            margin-top: -99px;
+
+        }
+        .language{
+            font-size: 25px;
+            padding-left: 60px;
+            padding-right: 50px;
+            padding-top: 40px;
+        }
+
+
+#color_bar{
+    background-color:     #589d38;
+}
+#color_bar2{
+    background-color:     #589d38;
+}
