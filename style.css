@@ -32,6 +32,7 @@ header{
             }
 
 
+
 .info_container{
     height: 455px;
     width: 1000px;
@@ -115,4 +116,10 @@ header{
 }
 #color_bar2{
     background-color:     #589d38;
+}
+
+.phone{
+    margin-top: 350px;
+    margin-left: 700px;
+    font-size: 20px;
 }
