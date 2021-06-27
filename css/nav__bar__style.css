@@ -1,0 +1,21 @@
+.navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+    font-family:'Courier New', Courier, monospace;
+}
+.navbar-dark .navbar-brand {
+  color: #2bb688;
+  text-shadow: 0 0 7px #5c5c5c;
+  font-size: 30px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, 0.979);
+    font-size: larger;
+    padding-left: 25px;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #2bb688;
+    text-shadow: 0 0 7px #5c5c5c;
+    text-decoration: underline;
+}
+.bg-dark {
+    background-color: rgba(0, 0, 0, 0.6) !important;
+  }
